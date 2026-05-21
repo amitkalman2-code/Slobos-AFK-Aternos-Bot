@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "thecoolsmpwithmod.falixsrv.me"
-    "port":25316,
+    "ip": "thecoolsmpwithmod.falixsrv.me",
+    "port": 25316,
     "version": "",
     "try-creative": false
   },
@@ -52,7 +52,7 @@
       "enabled": true,
       "interval": 5000
     },
-    "random-jump": true {
+    "random-jump": {
       "enabled": true,
       "interval": 10000
     }
